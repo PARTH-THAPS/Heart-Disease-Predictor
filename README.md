@@ -2,6 +2,9 @@
 
 A Machine Learning-based Heart Disease Prediction application built using **Python, Scikit-learn, K-Nearest Neighbors (KNN), and Streamlit**. The application allows users to enter health-related parameters and receive a model prediction through an interactive web interface.
 
+<img width="1798" height="911" alt="image" src="https://github.com/user-attachments/assets/19c25ad4-87e2-4630-a3ac-613cbabcd987" />
+
+
 ## 🚀 Project Overview
 
 This project uses a trained KNN classification model to predict whether a person is likely to have heart disease based on selected clinical and health-related features.
